@@ -53,6 +53,7 @@ DOMAIN-SUFFIX,mobile.eum-appdynamics.com
 DOMAIN-SUFFIX,log-58144bf0.we-stats.com
 DOMAIN-SUFFIX,hsbc.edge.sdk.awswaf.com
 DOMAIN-SUFFIX,cdn.optimizely.com
+IP-CIDR,103.129.255.183/32
 #香港其他金融
 #DOMAIN-SUFFIX,bank-stock.zainvest.group
 #DOMAIN-SUFFIX,bank-sbsmarket.zainvest.group
