@@ -1,3 +1,8 @@
+# NAME: Ai Rules
+# AUTHOR: https://ddgksf2013.top/filter/Ai.yaml
+https://fastly.jsdelivr.net/gh/GeQ1an/Rules@master/QuantumultX/Filter/AI%20Suite.list
+# UPDATED: 2026-8-2
+
 # > OpenAI / ChatGPT / Sora
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,chatgpt.com
